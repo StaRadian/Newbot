@@ -7,5 +7,7 @@ LPC5536JBD100
 
 # Motor
 1226S006B
-# MoterDriver
+# Moter Driver
 DRV8316T
+# Distance Sensor
+VL53L3CX
